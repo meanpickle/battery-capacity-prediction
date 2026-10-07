@@ -52,7 +52,6 @@ MSE 的归一化方式、计算范围、单位与数据划分规则未完整留�
 
 ```text
 README.md                   核实后的项目说明
-docs/resume.md              修订后的简历文案
 docs/evidence.md            证据对应及待补充材料
 reports/report.pdf          原始课程报告
 reports/presentation.pptx   原始课程汇报
@@ -60,7 +59,7 @@ reports/project.tex         原始报告 LaTeX 源稿
 reports/fig/                四张模型结果图
 ```
 
-可直接查看 [课程报告](reports/report.pdf)、[汇报文件](reports/presentation.pptx) 和 [简历文案](docs/resume.md)。LaTeX 源稿按原样归档，未重新编译；原有参考文献 PDF、自动生成的编译文件与带占位引用的第二版草稿未上传。
+可直接查看 [课程报告](reports/report.pdf)、[汇报文件](reports/presentation.pptx)。LaTeX 源稿按原样归档，未重新编译；原有参考文献 PDF、自动生成的编译文件与带占位引用的第二版草稿未上传。
 
 ## 后续复现所需材料
 
